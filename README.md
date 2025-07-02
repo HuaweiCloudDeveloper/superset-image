@@ -34,7 +34,7 @@ Superset provides:
 - An API for programmatic customization
 - A cloud-native architecture designed from the ground up for scale
 
-This project's open-source image product, [**Superset Data Visualization Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/62d4b58f-0335-4385-b078-9aabc9b78555), comes pre-installed with Superset v2.7.1 and its runtime environment. It includes deployment templates for an easy "out-of-the-box" experience!
+This project's open-source image product, [**Superset Data Visualization Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/62d4b58f-0335-4385-b078-9aabc9b78555), comes pre-installed with Superset v4.1.2 and its runtime environment. It includes deployment templates for an easy "out-of-the-box" experience!
 
 
 ### System Requirements
@@ -51,7 +51,7 @@ This project's open-source image product, [**Superset Data Visualization Platfor
 
 | Image Specification                                                                                          | Feature Description | Remarks |
 |--------------------------------------------------------------------------------------------------------------|---------------------|---------|
-| [Superset-4.1.2-kunpeng](https://github.com/HuaweiCloudDeveloper/superset-image/tree/Superset-2.7.1-kunpeng) | Installed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit | |
+| [Superset-4.1.2-kunpeng](https://github.com/HuaweiCloudDeveloper/superset-image/tree/Superset-4.1.2-kunpeng) | Installed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit | |
 
 
 ## Getting Help
