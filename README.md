@@ -55,7 +55,7 @@ This project's open-source image product, [**Superset Data Visualization Platfor
 
 
 ## Getting Help
-- Ask questions via [issues](https://github.com/HuaweiCloudDeveloper/redis-image/issues) or the Huawei Cloud Marketplace product support.
+- Ask questions via [issues](https://github.com/HuaweiCloudDeveloper/superset-image/issues) or the Huawei Cloud Marketplace product support.
 - Explore other open-source images at [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos).
 
 
