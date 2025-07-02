@@ -13,4 +13,4 @@
 
 - 华为云云商店：[Superset数据可视化平台使用指南](./docs/usage.md)
 
-更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/redis-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
+更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/superset-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
