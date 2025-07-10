@@ -51,7 +51,7 @@ This project's open-source image product, [**Superset Data Visualization Platfor
 
 | Image Specification                                                                                          | Feature Description | Remarks |
 |--------------------------------------------------------------------------------------------------------------|---------------------|---------|
-| [Superset-4.1.2-kunpeng](https://github.com/HuaweiCloudDeveloper/superset-image/tree/Superset-4.1.2-kunpeng) | Installed on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit | |
+| [Superset-4.1.2-kunpeng](https://github.com/HuaweiCloudDeveloper/superset-image/tree/Superset-4.1.2-kunpeng) | The installation and deployment are based on the Kunpeng server using Huawei Cloud EulerOS 2.0 64-bit and Ubuntu 24.04 Server 64-bit | |
 
 
 ## Getting Help
